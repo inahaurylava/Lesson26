@@ -17,3 +17,4 @@ class Endpoint:
 
     def get_data(self):
         return self.response.json()
+
